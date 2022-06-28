@@ -1,1 +1,1 @@
-# terraform-azure-storage
+# publish-modules
